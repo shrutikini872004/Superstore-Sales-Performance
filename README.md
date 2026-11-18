@@ -15,6 +15,8 @@ The objective of this project is to analyze retail sales, quantity, profit, and 
 
 ## Dashboard Interaction 
 - <a href="https://github.com/shrutikini872004/Superstore-Sales-Performance/blob/main/superstore.pbix">View Dashboard</a>
+<img width="1314" height="744" alt="Screenshot 2026-10-24 150800" src="https://github.com/user-attachments/assets/7a202513-04d0-483d-b89e-dd8095895067" />
+
 
 ## Process
 - Verify data for any missing values, duplicates, and anomalies, and clean the same in Power Query.
