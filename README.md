@@ -13,7 +13,7 @@ The objective of this project is to analyze retail sales, quantity, profit, and 
 - Which shipping mode is most preferred by customers?
 - How are sales and profit distributed across different states?
 
-##Dashboard Interaction 
+## Dashboard Interaction 
 - <a href="https://github.com/shrutikini872004/Superstore-Sales-Performance/blob/main/superstore.pbix">View Dashboard</a>
 
 ## Process
