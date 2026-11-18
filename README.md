@@ -22,7 +22,7 @@ The objective of this project is to analyze retail sales, quantity, profit, and 
 - Merge all visuals into one interactive dashboard and apply regional slicers (Central, East, South, West) to make it dynamic.
 
 ## Dashboard
-Screenshot 2026-10-24 150800.png
+https://github.com/shrutikini872004/Superstore-Sales-Performance/blob/main/Screenshot%202026-10-24%20150800.png
 
 ## Project Insights
 - **Overall Performance:** Total sales reached **2.3M** with **38K** units sold, generating **286.4K** in profit and an average delivery time of **4 days**.
