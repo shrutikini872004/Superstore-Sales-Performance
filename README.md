@@ -24,8 +24,8 @@ The objective of this project is to analyze retail sales, quantity, profit, and 
 - Create DAX measures and build visuals (cards, donut charts, line/area charts, bar charts, and map) according to the business questions asked.
 - Merge all visuals into one interactive dashboard and apply regional slicers (Central, East, South, West) to make it dynamic.
 
-## Dashboard
-<a href="https://github.com/shrutikini872004/Superstore-Sales-Performance/blob/main/Screenshot%202026-10-24%20150800.png">Dashboard</a>
+## Live Dashboard
+
 
 ## Project Insights
 - **Overall Performance:** Total sales reached **2.3M** with **38K** units sold, generating **286.4K** in profit and an average delivery time of **4 days**.
