@@ -2,7 +2,7 @@
 ## Project Objective 
 The objective of this project is to analyze retail sales, quantity, profit, and shipping performance across different regions, customer segments, and product categories from 2014 to 2017 to support data-driven business decisions.
 
-- <a href="YOUR_DATASET_LINK_HERE">Dataset</a>
+- <a href="https://github.com/shrutikini872004/Superstore-Sales-Performance/blob/main/Sample%20-%20Superstore.csv">Dataset</a>
 
 ## Questions (KPIs)
 - What is the overall Sales, Quantity, Profit, and Average Delivery Days?
